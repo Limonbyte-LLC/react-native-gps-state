@@ -1,0 +1,59 @@
+{
+  "_args": [
+    [
+      "react-native-gps-state@2.0.3",
+      "C:\\xampp\\htdocs\\Sysge24\\app"
+    ]
+  ],
+  "_from": "react-native-gps-state@2.0.3",
+  "_id": "react-native-gps-state@2.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-gWFpxO5ztNSuwiIYL9Cf6iRuQiCz2B5esGdtX1m8oFSt5k6qJgLwEL79N0jnh2asRREqCqaB/LdJ74sxBuAVaA==",
+  "_location": "/react-native-gps-state",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-gps-state@2.0.3",
+    "name": "react-native-gps-state",
+    "escapedName": "react-native-gps-state",
+    "rawSpec": "2.0.3",
+    "saveSpec": null,
+    "fetchSpec": "2.0.3"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-gps-state/-/react-native-gps-state-2.0.3.tgz",
+  "_spec": "2.0.3",
+  "_where": "C:\\xampp\\htdocs\\Sysge24\\app",
+  "author": {
+    "name": "Neuber Oliveira",
+    "url": "neuberoliveira"
+  },
+  "bugs": {
+    "url": "https://github.com/neuberoliveira/react-native-gps-state/issues"
+  },
+  "contributors": [],
+  "description": "React Native Listener for GPS status changes",
+  "homepage": "https://github.com/neuberoliveira/react-native-gps-state#readme",
+  "keywords": [
+    "react-native",
+    "react-native-gps-state",
+    "react",
+    "native",
+    "gps",
+    "state",
+    "status",
+    "location",
+    "geolocation"
+  ],
+  "main": "index.js",
+  "name": "react-native-gps-state",
+  "nativePackage": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neuberoliveira/react-native-gps-state.git"
+  },
+  "version": "2.0.3"
+}
